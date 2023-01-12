@@ -6,22 +6,52 @@ stpme@uw.edu
 
 # Summary
 
-Experienced in programming in Python, Java, React/JS and R. 
+    Experienced in programming in Java, JS/React, Python, R, HTML/CSS, Figma and Microsoft Office.
+    Proficient in English and Spanish.
+# Relevant Experience
 
-# Work Experience (only last 10 years)
+## [University of Washington] (Seattle, WA)
 
-## University of Washington (Seattle, WA)
+- GEOG 360 – GIS and Mapping
 
-* [University of Washington][] description, particularly if not well-known.*
+- STAT 221 – Statistical Concepts and Methods
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+- STAT 311 – Elements of Statistical Methods (R)
 
-Summary of your role
+- CSE 373 – Data Structures and Algorithms (Java)
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- CSE 415 – Artificial Intelligence (Java)
+
+- CSE 163 – Intermediate Data Programming (Python)
+
+- INFO 180 – Introduction to Data Science
+
+- INFO 200 – Intellectual Foundations of Informatics (Figma)
+
+- INFO 201 – Foundational Skills for Data Science (R)
+
+- INFO 340 – Client-side Web Development (JS/React)
+
+
+
+## Other Experience
+
+    CSE 163
+    - Used public health & Census data to analyze 
+      healthcare spending & income trends in the US.
+      Utilized linear regression models to predict & compare
+      future spending trends for marginalized populations.
+ 
+    INFO 200
+    - Received award for best project design for a Figma mobile app design prototype.
+ 
+    INFO 340
+    - Translated INFO 200 prototype into a functioning web app using ReactJS and Firebase.
+  
+    GEOG 360 
+    - Used QGIS and data from the Census & WA Department of Health
+      to design maps to  measure the effects of social determinants of health
+      on populations of color in Washington and King County. 
 
 
 
