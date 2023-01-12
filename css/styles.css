@@ -9916,6 +9916,7 @@ h3 {
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
+  width: 100%;
   background-color: #fff;
 }
 .divider-custom.divider-light .divider-custom-icon {
