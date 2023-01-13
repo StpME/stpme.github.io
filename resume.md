@@ -8,6 +8,7 @@ stpme@uw.edu
 
     Experienced in programming in Java, JS/React, Python, R, HTML/CSS, Figma and Microsoft Office.
     Proficient in English and Spanish.
+    
 # Relevant Experience
 
 ## [University of Washington] (Seattle, WA)
