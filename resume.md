@@ -2,7 +2,6 @@
 
 stpme@uw.edu
 
-4000 Potato Lane, Seattle Washington
 ![image](assets/img/portfolio/geography.jpg "Smith Hall")
 # Summary
 
